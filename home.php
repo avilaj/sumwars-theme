@@ -1,7 +1,7 @@
 <?php
 	get_header();
 ?>
-home
+home page
 <?php
 	get_footer();
 ?>
