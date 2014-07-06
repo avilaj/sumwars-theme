@@ -2,10 +2,10 @@
 	get_header();
 ?>
 	<section class="logo">
-		<img src="imgs/sumwars.png" alt="">
+		<img src="<?php echo get_template_directory_uri (); ?>/imgs/sumwars.png" alt="">
 	</section>
 	<div class="image-background">
-		<img src="imgs/priest.jpg" alt="">
+		<img src="<?php echo get_template_directory_uri (); ?>/imgs/priest.jpg" alt="">
 	</div>
 	<article>
 		<section class="download">
